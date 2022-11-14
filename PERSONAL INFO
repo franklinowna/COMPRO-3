@@ -9,27 +9,16 @@ namespace PERSONAL_INFO
       public static void Main(string[] arg)  
       {
       	Console.Write("First Name:");
-        Console.ReadLine();
         Console.Write("Middle Name:");
-        Console.ReadLine();
         Console.Write("Last Name:");
-        Console.ReadLine();
         Console.Write("Civil Status:");
-        Console.ReadLine();
         Console.Write("Place of Birth:");
-        Console.ReadLine();
         Console.Write("Birth Date:");
-        Console.ReadLine();
         Console.Write("Sex:");
-        Console.ReadLine();
         Console.Write("Age:");
-        Console.ReadLine();
         Console.Write("Address:");
-        Console.ReadLine();
         Console.Write("Phone Number:");
-        Console.ReadLine();
         Console.Write("Mother's Name:");
-        Console.ReadLine();
         Console.Write("Father's Name:");
         Console.ReadLine();
       }	
